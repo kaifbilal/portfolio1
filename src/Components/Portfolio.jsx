@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Kaif.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Muhammad Kaif pic standing besides a poll on a brigde with sunset in amidst of trees and greeny.";
 
 /**
  * Project list
@@ -31,28 +31,51 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Game Development using Unity Game Engine",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "With Unity Game Engine, I have made a solar system model, a 2D platformer , 3d Shooter, 3d platformer games, with .NET.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have gained a proficiency in JavaScript, React, HTML, CSS, Bootstrap, Python, Django, RestFull Api, MYSql, and created food ordering website and weather App",
+    url: "",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created my resume site using React, node.js, and deployed to Azure. Includes my experience and design abilities.",
+    url: "www.kaifbilalibrahim.me",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Figma UI/UX Designs",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I have designed a the UI/UX design of a hypothetical Food Ordering website.",
+    url: "",
+  },
+  {
+    title: "Android App",
+    description:
+      "With the help of Android studio and with Kotlin, I had made a video player",
+    url: "",
+  },
+  {
+    title: "Game Development using PyGame",
+    description:
+      "I have created many games with the help of pygame, such as snakebite, the death Valley, the space Crash",
+  },
+  {
+    title: "Certificates",
+    description:
+      "Click to see Certificates",
+    url: "https://www.linkedin.com/in/mohdkaifbilal/details/certifications/",
+  },
+  {
+    title: "MLSA",
+    description:
+      "I am a member of Microsoft Learn Student Ambassador, where I have conducted many workshops and webinars.",
+    url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/ed6e4a56-0454-4195-a9e4-cdfc4cd8948f",
   },
 ];
 

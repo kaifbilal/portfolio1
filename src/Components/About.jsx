@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Mohd Kaif, a B.Tech CSE student passionate about technology. Proficient in Python and adept at interacting with OS using Python, I am on a continuous journey of exploration and learning. My evolving skill set includes Cloud Computing, Cryptography, Cybersecurity, Android Development, Web Development, and Game Development. As a result, I am well-versed in Kotlin, C#, Javascript, HTML, XML, CSS, SQL, and Linux. Additionally, my expertise extends to areas such as REGEX, troubleshooting, OOPs, configuration, Git, Github, troubleshooting and debugging techniques, Python testing, and scripting. Eager to contribute and make a mark in the dynamic field of technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Web development",
+  "Game development",
+  "Python",
+  "Web UI/UX",
   "Mobile user interfaces",
-  "Graphic design",
+  "DS & Algo",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By learning new skills, and exploring thing the Vast Field of Computer Science, I have gained a lot of experience and knowledge. I am always eager to learn new things and apply them to solve real-world problems. ";
 
 const About = () => {
   return (
